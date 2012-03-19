@@ -10,5 +10,6 @@ public class InformateActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         //Test von Buhre...!!
+        //Test-2
     }
 }
